@@ -8,7 +8,7 @@ Como desarrollador, he estado utilizando [Visual Studio Code](https://code.visua
 
 
 
-## Mi configuración personalizada de VS Code <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Texto alternativo de la imagen" width="20">
+## Mi configuración personalizada de VS Code
 
 ```Json
 {
